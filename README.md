@@ -69,11 +69,26 @@ Contribuyentes.
 
 Equipo de desarrollo Scrum - Desarrolladores Backend y Frontend, Scrum Master, Product Owner, Tester, Ula.
 
-
 ![Equipo](https://user-images.githubusercontent.com/114180359/191843619-0d43863e-03ce-443a-ae89-5c8c10d20567.JPG)
-
 
 Desarrollador del Proyecto.
 
 Luis Felipe Martinez Cubides
 
+Conclusiones.
+
+Con la implementación de este proyecto bajo la 
+metodología ágil Scrum pudimos evidenciar sus 
+ventajas y porque es la metodología más común 
+en el desarrollo de proyectos a nivel de software 
+y demás carreras.
+El formato IEEE nos permitió desarrollar toda la 
+documentación necesaria sobre la 
+implementación de nuestro proyecto sobre una 
+aplicación de la serie Stranger Things para la 
+plataforma de Streaming Netflix.
+Con este ejercicio pude aclarar mis dudas frente 
+al desarrollo y roles de la metodología ágil 
+Scrum y como es su aplicación con un ejercicio 
+realizado en clase y con el trabajo realizado 
+durante todo el ciclo.
