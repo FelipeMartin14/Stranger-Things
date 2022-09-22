@@ -1,2 +1,2 @@
 # Stranger Things
- Proyecto Ing Software
+ Proyecto Ingenieria Software
