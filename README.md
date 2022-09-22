@@ -64,7 +64,6 @@ Pueden apoyarse con toda la documentación con la cual se soporto toda la implem
 Licenciamiento.
 
 ![Licencia](https://user-images.githubusercontent.com/114180359/191842519-b4936992-c7d6-4ecd-9711-a797b6c7f88a.jpg)
-
 Contribuyentes.
 
 Equipo de desarrollo Scrum - Desarrolladores Backend y Frontend, Scrum Master, Product Owner, Tester, Ula.
